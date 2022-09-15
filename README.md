@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evanbranigan
-- 👀 I’m interested in: #buildinganetworkstate
-- 🌱 I’m currently learning #web3
-- 💞️ I’m looking to collaborate on #buildinganetworkstate
+- 👀 I’m building DAOs (lilnouns, rugradio, mfers, linksdao, citydao)
+- 🌱 I’m currently learning #github
+- 💞️ I’m looking to collaborate on building DAOs
 - 📫 evan@better.law
 
 <!---
