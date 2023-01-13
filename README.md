@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evanbranigan
-- 👀 I’m building lilnounsDAO
-- 🐼 my PFP is the first beacon chain lil panda (#5845O)      
+- 👀 I’m building lilnounsDAO and mferbuilderdao
+- 🐼 my PFP is the first beacon chain lil panda (#5845)      
 
 - 🌱 I’m currently learning #github
 - 📫 evan@braniganlaw.com
